@@ -13,9 +13,11 @@ const Nav = styled.div`
   font-weight: 600;
   margin: auto;
   padding-top: 20px;
+
   a {
     color: #777;
   }
+
   .active {
     color: rgb(50, 148, 248);
   }
@@ -59,11 +61,11 @@ const Layout = () => {
     <div>
       <Profile>
         <div>
-          <ProfilePicture src="https://t1.daumcdn.net/cfile/tistory/99107A335C1EED5005" alt="프로필 사진" />
+          <ProfilePicture src="https://avatars.githubusercontent.com/u/98243874?v=4" alt="프로필 사진" />
         </div>
         <div>
-          <Name>제시</Name>
-          <Description>브롤스타즈~</Description>
+          <Name>윤섭</Name>
+          <Description>안녕하세요~</Description>
         </div>
       </Profile>
       <Nav>
