@@ -5,6 +5,8 @@ const Resume = () => {
       <p>2019.03 ~ 2025.02</p>
       <li>
         <span className="subject">학점</span> - 4.05 / 4.5
+      </li>
+      <li>
         <span className="subject">실전코딩</span> - github, SpringBoot, React 등의 실무 관련 지식 수강
       </li>
       <h2>2022 동계 실무캠프</h2>
